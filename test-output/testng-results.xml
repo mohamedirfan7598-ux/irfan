@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-29T20:07:58 IST" name="Default suite" finished-at="2025-12-29T20:08:04 IST" duration-ms="6262">
+    <groups>
+    </groups>
+    <test started-at="2025-12-29T20:07:58 IST" name="Default test" finished-at="2025-12-29T20:08:04 IST" duration-ms="6262">
+      <class name="org.azurTesting.PutRequest">
+        <test-method signature="PutReq()[pri:0, instance:org.azurTesting.PutRequest@2a65fe7c]" started-at="2025-12-29T20:07:58 IST" name="PutReq" finished-at="2025-12-29T20:08:04 IST" duration-ms="6199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PutReq -->
+      </class> <!-- org.azurTesting.PutRequest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
