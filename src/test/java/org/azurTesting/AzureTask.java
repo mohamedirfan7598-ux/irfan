@@ -32,8 +32,7 @@ public class AzureTask {
         for (int i = 0; i < userFirstName.size(); i++) {
 			users.add(userFirstName.get(i));
 		}
-        
-        System.out.println(users);
+
 	}
 	
 }
