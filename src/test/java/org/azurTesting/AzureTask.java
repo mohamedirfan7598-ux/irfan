@@ -33,7 +33,7 @@ public class AzureTask {
 			users.add(userFirstName.get(i));
 		}
         
-        System.out.println(users);
+        System.out.println(users)
 	}
-	
+	System.out.println(userFirstName);
 }
